@@ -73,7 +73,13 @@ Download the .pbix file from this repository.
 
 Open in Power BI Desktop.
 
-Explore the dashboard using the interactive filters and visuals.
+## ## 📊 Key Insights
 
-💡 Conclusion
-This dashboard helps Walmart’s management and analysts quickly identify sales trends, customer preferences, and key business drivers, enabling data-driven decision-making.
+1. **Top Product Lines:** Food and beverages, and Sports and travel are the highest-selling categories.
+2. **Branch Performance:** Branch C leads in total sales, indicating better performance or higher customer engagement.
+3. **Payment Preferences:** Most customers prefer cash, but e-wallet usage is also significant.
+4. **Sales Trend:** Sales show periodic spikes, helping in identifying peak business days.
+5. **Customer Loyalty:** Members generate more sales, highlighting the success of loyalty programs.
+6. **Peak Hours:** Evenings are the busiest time for sales, useful for staff and inventory planning.
+
+
